@@ -1,6 +1,6 @@
 # Blog Flask
 
-Um blog simples desenvolvido em Flask, com suporte para autenticação de usuários e gerenciamento de posts. Este projeto utiliza MySQL como banco de dados e organiza as funcionalidades em diferentes Blueprints, promovendo uma estrutura modular e escalável.
+Um blog desenvolvido em Flask, com suporte para autenticação de usuários e gerenciamento de posts. Este projeto utiliza MySQL como banco de dados e organiza as funcionalidades em diferentes Blueprints, promovendo uma estrutura modular e escalável.
 
 ## Funcionalidades
 
